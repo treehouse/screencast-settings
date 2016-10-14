@@ -1,0 +1,21 @@
+#Fri Oct 14 14:27:14 MST 2016
+\!/=
+/instance/org.eclipse.jdt.ui/org.eclipse.jface.textfont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.DetailPaneFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.MemoryViewTableFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.debug.ui.consoleFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageEditorFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.CommitMessageFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.egit.ui.DiffHeadlineFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.JavaMergeViewer=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.internal.ui.compare.PropertiesFileMergeViewer=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.PropertiesFileEditor.textfont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.jdt.ui.editors.textfont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.jface.textfont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.recommenders.snipmatch.rcp.searchTextFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands/>
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.texteditor.blockSelectionModeFont=1|Monaco|18.0|0|COCOA|1|Monaco;
+/instance/org.eclipse.ui.workbench/org.eclipse.wst.sse.ui.textfont=1|Monaco|18.0|0|COCOA|1|Monaco;
+file_export_version=3.0
