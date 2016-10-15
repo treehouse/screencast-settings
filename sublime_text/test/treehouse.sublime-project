@@ -1,0 +1,19 @@
+{
+    "folders":
+    [
+        {
+            "path": ".",
+            "file_exclude_patterns": ["*.sublime-*"]
+        }
+    ],
+    "settings":
+    {
+        "bold_folder_labels": true,
+        "caret_style": "wide",
+        "color_scheme": "Packages/Base16/base16-default.light.tmTheme",
+        "font_size": 18,
+        "highlight_line": false,
+        "highlight_modified_tabs": true,
+        "theme": "AppKit.sublime-theme"
+    }
+}

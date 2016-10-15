@@ -1,0 +1,1063 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"word wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"createfil",
+				"Quick File Creator: Create file"
+			],
+			[
+				"create fil",
+				"Quick File Creator: Create file"
+			],
+			[
+				"createfile",
+				"Quick File Creator: Create file"
+			],
+			[
+				"create fi",
+				"Quick File Creator: Create file"
+			],
+			[
+				"createdir",
+				"Quick File Creator: Create directory"
+			],
+			[
+				"word ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"githubop",
+				"Github: Open File"
+			],
+			[
+				"gitope",
+				"Github: Open File"
+			],
+			[
+				"githi",
+				"Github: Open File"
+			],
+			[
+				"gitopen",
+				"Github: Open File"
+			],
+			[
+				"git blam",
+				"Github: Blame"
+			],
+			[
+				"githu",
+				"Github: Open File"
+			],
+			[
+				"githuopen",
+				"Github: Open File"
+			],
+			[
+				"githop",
+				"Github: Open File"
+			],
+			[
+				"github op",
+				"Github: Open File"
+			],
+			[
+				"github open",
+				"Github: Open File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rev",
+				"File: Reveal"
+			],
+			[
+				"gith",
+				"Github: Copy Link To File"
+			],
+			[
+				"github",
+				"Github: Copy Link To File"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jay/treehouse/screencast-settings/sublime_text/test"
+	],
+	"file_history":
+	[
+		"/Users/jay/treehouse/screencast-settings/sublime_text/test/my.sublime-project",
+		"/Users/jay/th/rails_basics/blog/blog.sublime-project",
+		"/Users/jay/Downloads/2016-10-14_164956",
+		"/Users/jay/Downloads/2016-10-14_164912",
+		"/Users/jay/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jay/th/rails_basics/blog/db/migrate/20160829211358_create_pages.rb",
+		"/Users/jay/th/rails_basics/blog/app/models/page.rb",
+		"/Users/jay/th/rails_basics/blog/app/controllers/pages_controller.rb",
+		"/Users/jay/th/rails_basics/blog/config/routes.rb",
+		"/Users/jay/th/rails_basics/blog/app/views/pages/index.html.erb",
+		"/Users/jay/th/rails_basics/blog/app/views/pages/new.html.erb",
+		"/Users/jay/th/rails_basics/blog/app/views/pages/show.html.erb",
+		"/Users/jay/th/vet/app/controllers/pets_controller.rb",
+		"/Users/jay/th/vet/app/views/pets/show.html.erb",
+		"/Users/jay/th/vet/app/models/pet.rb",
+		"/Users/jay/th/vet/app/views/layouts/application.html.erb",
+		"/Users/jay/th/vet/app/views/pets/_form.html.erb",
+		"/Users/jay/th/rails_troubleshooting_ws/vet/Gemfile",
+		"/Users/jay/th/rails_troubleshooting_ws/vet/test/controllers/pets_controller_test.rb",
+		"/Users/jay/th/rails_troubleshooting_ws/vet/app/views/pets/_form.html.erb",
+		"/Users/jay/th/rails_basics/blog/app/views/posts/_form.html.erb",
+		"/Users/jay/th/rails_basics/blog/app/views/posts/index.html.erb",
+		"/Users/jay/th/rails_basics/blog/app/views/posts/show.html.erb",
+		"/Users/jay/th/rails_basics/blog/app/controllers/posts_controller.rb",
+		"/Users/jay/th/rails_basics/blog/script.md",
+		"/Users/jay/Downloads/Searches/Searches/2013-10-01 October 2013 to December 2013.json",
+		"/Users/jay/Projects/rubyonacid/test.svg",
+		"/Users/jay/Projects/presentations/bash/.bash_history",
+		"/Users/jay/Projects/presentations/bash/README.md",
+		"/Users/jay/Projects/presentations/ruby_oscon_2016/02_core_classes/02_hash/03_method_documentation.txt",
+		"/Users/jay/th/rails_troubleshooting_ws/vet/config/application.rb",
+		"/Users/jay/th/rails_troubleshooting_ws/vet/app/controllers/owner_controller.rb",
+		"/Users/jay/th/rails_troubleshooting_ws/vet/app/controllers/owners_controller.rb",
+		"/Users/jay/logs/2013-11-27_162254.txt",
+		"/Users/jay/Downloads/Zaga-33/WHAT IS THIS.txt",
+		"/Volumes/Bi/marcads_gamelist.txt",
+		"/Users/jay/Projects/blog/_posts/2016-01-30-164241.markdown",
+		"/Users/jay/Downloads/hf-graphics.txt",
+		"/Users/jay/.emacs.d/savefile/recentf",
+		"/Users/jay/.emacs.d/init.el",
+		"/Users/jay/.emacs.d/core/prelude-editor.el",
+		"/Users/jay/Projects/temp/ruby/test.rb",
+		"/Users/jay/Library/Caches/Adobe InDesign/Version 8.0/en_US/Head First.txt",
+		"/Users/jay/Library/Caches/Adobe InDesign/Version 11.0/en_US/Head First.txt",
+		"/Users/jay/Projects/oreilly_webcast/movies/movie.rb",
+		"/Users/jay/Projects/headfirstruby.com/.git/MERGE_MSG",
+		"/Users/jay/treehouse/treehouse/.git/MERGE_MSG",
+		"/Users/jay/Downloads/noodling.rb",
+		"/Users/jay/Downloads/noncompete_notes.txt",
+		"/Users/jay/treehouse/treehouse/.git/COMMIT_EDITMSG",
+		"/Users/jay/Downloads/Moq.4.0.10827/License.txt",
+		"/Users/jay/Downloads/feedbacks.digest.20151027.csv",
+		"/Users/jay/dotfiles_local/bin/osx/do_writing",
+		"/Users/jay/Projects/temp/word_splitter.rb",
+		"/Users/jay/dotfiles_local/bin/edit_treehouse",
+		"/Users/jay/treehouse/code_challenges/.git/MERGE_MSG",
+		"/Users/jay/treehouse/treehouse/temp.sql",
+		"/Users/jay/Downloads/06b9dd6cf2e0fffe66b3977fc386db3630a278d74402ed1e1ada9b9e009f0e78",
+		"/Users/jay/Downloads/api_key.yaml",
+		"/Users/jay/treehouse/treehouse/app/models/aspects/stage_based_progress.rb",
+		"/Users/jay/.tmux.conf",
+		"/Users/jay/Dropbox/todo_work/todo_work.txt",
+		"/Users/jay/Downloads/McGavrenJayCharles-PR2015.txt",
+		"/Users/jay/dotfiles/slate",
+		"/Users/jay/treehouse/code-challenges-gui/.git/COMMIT_EDITMSG",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/templates/ruby.rb.erb",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/challenge.rb",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/runner.rb",
+		"/Users/jay/treehouse/code_challenges/README.md",
+		"/Users/jay/treehouse/code-challenges-gui/spec/helpers/auth.rb",
+		"/Users/jay/Dropbox/head_first_ruby/.git/COMMIT_EDITMSG",
+		"/Users/jay/.todo.cfg",
+		"/Users/jay/.emacs.d/personal/init.el",
+		"/Users/jay/Downloads/climate_data_truncated.csv",
+		"/tmp/subl stdin 79Hn2F.txt",
+		"/Users/jay/Projects/emacs.md",
+		"/Users/jay/treehouse/code_challenges/challenges/ruby_rapids/third_island/stage_4/cc1/challenge.yml",
+		"/Users/jay/.gitignore",
+		"/Users/jay/treehouse/code_challenges/Rakefile",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/runners/includes/java/android/app/ListActivity.java",
+		"/Users/jay/treehouse/code_challenges/challenges/rails/active_record/stage_3/cc_2/ruby",
+		"/Users/jay/treehouse/code_challenges/challenges/ruby_rapids/second_island/stage_4/cc2/task_1_respond_to_failed/user_friendships_controller.rb",
+		"/Users/jay/treehouse/code_challenges/challenges/rails/active_record/stage_4/cc_2/test/test_1_fails_return_nonrelation/person.rb",
+		"/Users/jay/treehouse/code-challenges-gui/app/models/assertion.rb",
+		"/Users/jay/treehouse/code-challenges-gui/spec/serializers/challenge_serializer_spec.rb",
+		"/Users/jay/treehouse/code-challenges-gui/spec/serializers/assertion_serializer_spec.rb",
+		"/Users/jay/treehouse/code-challenges-gui/app/models/asset.rb",
+		"/Users/jay/treehouse/code-challenges-gui/app/models/challenge.rb",
+		"/Users/jay/treehouse/code-challenges-gui/app/serializers/assertion_serializer.rb",
+		"/Users/jay/treehouse/code-challenges-gui/spec/factories/asset.rb",
+		"/Users/jay/treehouse/code-challenges-gui/app/views/challenges/show.html.erb",
+		"/Users/jay/treehouse/code-challenges-gui/spec/factories/assertion.rb",
+		"/Users/jay/treehouse/code-challenges-gui/app/models/assertion_result.rb",
+		"/Users/jay/treehouse/code-challenges-gui/app/models/assertion_runner.rb",
+		"/Users/jay/treehouse/code-challenges-gui/app/controllers/assertions_controller.rb",
+		"/Users/jay/treehouse/code_challenges/challenge",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/runners/phantomjs_runner.rb",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/templates/phantomjs.js.erb",
+		"/Users/jay/treehouse/code_challenges/spec/python_runner_spec.rb",
+		"/Users/jay/Dropbox/head_first_ruby/ch04/employees.rb",
+		"/Users/jay/Dropbox/head_first_ruby/ch04/ruby/hourly_employee.rb",
+		"/Users/jay/Dropbox/head_first_ruby/ch04/ruby/employee.rb",
+		"/Users/jay/Dropbox/head_first_ruby/ch04/ruby/salaried_employee.rb",
+		"/Users/jay/treehouse/code_challenges/spec/mysql_runner_spec.rb",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/runners/java_runner.rb",
+		"/Users/jay/treehouse/code_challenges/spec/java_runner_spec.rb",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/runners/sql_runner.rb",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/runners/mysql_runner.rb",
+		"/Users/jay/treehouse/code_challenges/lib/challenge_engine/templates/mysql.rb.erb",
+		"/Users/jay/treehouse/code_challenges/tmp/workdirs/7feceea7-730b-43e1-a566-070254bb89ff/7feceea7-730b-43e1-a566-070254bb89ff.rb",
+		"/Users/jay/treehouse/code_challenges/challenges/php_mysql/stage_1/selecting/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_1/cc1/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_1/cc2/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_1/cc3/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_3/cc1/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_3/cc2/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_3/cc3/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_3/cc4/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_3/cc5/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_4/cc2/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_4/cc3/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_5/cc1/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_5/cc2/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_6/cc1/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_6/cc2/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_7/cc1/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_7/cc2/challenge.yml",
+		"/Users/jay/treehouse/code_challenges/challenges/sql/island_1/stage_7/cc3/challenge.yml"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 88.0,
+		"where_history":
+		[
+			"",
+			"challenges/",
+			"challenges/sql",
+			"",
+			"**/*.coffee*",
+			"",
+			"**/swift/**",
+			"",
+			"**/swift/**",
+			"",
+			"**/swift/**",
+			"",
+			"**/swift/**",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Copyright 1999 Pets.com",
+			"pets.com",
+			"theme",
+			"Copyright 1999",
+			"Copyright 1997",
+			"Copyright",
+			"copyright",
+			"tramp",
+			"recentf",
+			"437652",
+			"context",
+			"preamble",
+			"context",
+			"interprogram",
+			"savehist",
+			"string",
+			"System.out.println(\"<YOUR STRING HERE>\");}",
+			"%Q{",
+			"string",
+			"print",
+			"\nend\n\n",
+			"/\n  ",
+			"unless code =~ ",
+			"print(\"<YOUR STRING HERE>\")}",
+			"}",
+			"{",
+			"odot",
+			"binding.pry",
+			"files",
+			"pry",
+			"files",
+			"assertion",
+			"student_files",
+			"-",
+			"mysql_client.query",
+			"MysqlRunner",
+			"SqlRunner",
+			"sleep",
+			"logger.",
+			"log",
+			"get_db_results",
+			"MYSQL_USER",
+			"javarunner",
+			"fail_with_precompilation_error",
+			" cb",
+			"pbcopy",
+			"@test",
+			"test_output",
+			"@test",
+			"options[:",
+			"= ",
+			"age",
+			"name",
+			"expected hint to be",
+			"ChallengeEngineTest",
+			"CC.fail(@test, ",
+			"popen3",
+			"source_file",
+			"pubnub",
+			"prepare",
+			"print_compiler_errors",
+			"print_function",
+			"add_list",
+			"fail",
+			"scope",
+			"callbackerror",
+			"swiftrunner",
+			"hash",
+			"extrakeys",
+			"inactiveTaskFailed",
+			"inactive_task_failed",
+			"is no longer passing",
+			"RAW_EMAIL",
+			"command",
+			"GitRunner",
+			"git_runner",
+			"challenge_in_progress",
+			"code_challenge_session_id",
+			"Git",
+			"encoding:",
+			"cc.",
+			"piles",
+			"challengeserializer",
+			"panel-danger",
+			"respond_to",
+			"AssertionResult",
+			"message_id",
+			"PrecompileTestContext",
+			"students_code",
+			"precom",
+			"preamble",
+			"button",
+			"build_output",
+			"student_files",
+			".error",
+			"data:",
+			"build_output",
+			"write_to_preview",
+			"precompile",
+			"ChallengeEngine::Logger",
+			"write_to_preview",
+			"copy_to_preview",
+			"css",
+			"CSS",
+			"css",
+			"opacity",
+			"properties",
+			"match",
+			"1.65px",
+			"line-height",
+			"body",
+			"blue",
+			"background",
+			"@source",
+			"blue",
+			"background",
+			"@source",
+			"@source(\"style.css\")",
+			"sass",
+			"location",
+			"bundle exec rspec --tag ~xcode",
+			"add an HttpURLConnection variable named",
+			"requesting data from the web the wrong way",
+			"oct 29",
+			"android_archipelago/island_2/stage_3/cc2/test/step1_fails_if_openConnection_not_called",
+			"java_init",
+			"java_basic",
+			"__file__"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#{example_code}~",
+			"%Q~",
+			"text",
+			"\n",
+			"/ or ",
+			"code.scan ",
+			"#{example_code}~",
+			"print(\"<YOUR STRING HERE>\")}",
+			"#{example_code}~",
+			"~",
+			"MysqlRunner",
+			"@task_number",
+			"test_output_html",
+			"@task_number",
+			"error = ",
+			"global_scope",
+			"protons",
+			"part_counts",
+			"animal",
+			"food",
+			"CC.pass(",
+			"Hindenburg",
+			"node_runner",
+			"fail(task_number, ",
+			"UK",
+			"",
+			".*",
+			"\"",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "treehouse.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"page",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"ind",
+				"app/views/pages/index.html.erb"
+			],
+			[
+				"pagcon",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"contr",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"crepage",
+				"db/migrate/20160829211358_create_pages.rb"
+			],
+			[
+				"appmodpag",
+				"app/models/page.rb"
+			],
+			[
+				"pagecon",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"sho",
+				"app/views/pets/show.html.erb"
+			],
+			[
+				"applhtml",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"petscon",
+				"app/controllers/pets_controller.rb"
+			],
+			[
+				"pet.rb",
+				"app/models/pet.rb"
+			],
+			[
+				"form",
+				"app/views/pets/_form.html.erb"
+			],
+			[
+				"show",
+				"app/views/pets/show.html.erb"
+			],
+			[
+				"_f",
+				"app/views/pets/_form.html.erb"
+			],
+			[
+				"app",
+				"config/application.rb"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"ownercon",
+				"app/controllers/owner_controller.rb"
+			],
+			[
+				"ruby",
+				"lib/challenge_engine/templates/ruby.rb.erb"
+			],
+			[
+				"assertion",
+				"app/models/assertion.rb"
+			],
+			[
+				"runner",
+				"lib/challenge_engine/runner.rb"
+			],
+			[
+				"challenge",
+				"lib/challenge_engine/challenge.rb"
+			],
+			[
+				"author",
+				"AUTHORING.markdown"
+			],
+			[
+				"phan",
+				"spec/phantomjs_runner_spec.rb"
+			],
+			[
+				"mysqlrun",
+				"spec/mysql_runner_spec.rb"
+			],
+			[
+				"worker",
+				"lib/challenge_engine/worker.rb"
+			],
+			[
+				"runne",
+				"lib/challenge_engine/runner.rb"
+			],
+			[
+				"mysqlrunne",
+				"spec/mysql_runner_spec.rb"
+			],
+			[
+				"mysqlhtml",
+				"lib/challenge_engine/templates/mysql.html.erb"
+			],
+			[
+				"mysqlrunn",
+				"lib/challenge_engine/runners/mysql_runner.rb"
+			],
+			[
+				"sqlrunner",
+				"lib/challenge_engine/runners/sql_runner.rb"
+			],
+			[
+				"javarunner",
+				"spec/java_runner_spec.rb"
+			],
+			[
+				"java",
+				"lib/challenge_engine/runners/java_runner.rb"
+			],
+			[
+				"auth",
+				"AUTHORING.markdown"
+			],
+			[
+				"sync",
+				"bin/sync_local_db"
+			],
+			[
+				"phaon",
+				"lib/challenge_engine/templates/phantomjs.js.erb"
+			],
+			[
+				"pyterb",
+				"lib/challenge_engine/templates/python.html.erb"
+			],
+			[
+				"commspe",
+				"spec/command_line_runner_spec.rb"
+			],
+			[
+				"aut",
+				"AUTHORING.markdown"
+			],
+			[
+				"python",
+				"lib/challenge_engine/templates/python.py.erb"
+			],
+			[
+				"pyrunnsp",
+				"spec/python_runner_spec.rb"
+			],
+			[
+				"pytho",
+				"lib/challenge_engine/templates/python.html.erb"
+			],
+			[
+				"comman",
+				"lib/challenge_engine/templates/command_line.html.erb"
+			],
+			[
+				"au",
+				"AUTHORING.markdown"
+			],
+			[
+				"commspec",
+				"spec/command_line_runner_spec.rb"
+			],
+			[
+				"rubyer",
+				"lib/challenge_engine/templates/ruby.rb.erb"
+			],
+			[
+				"comm",
+				"lib/challenge_engine/templates/command_line.rb.erb"
+			],
+			[
+				"commandlinerunne",
+				"lib/challenge_engine/runners/command_line_runner.rb"
+			],
+			[
+				"git",
+				"lib/challenge_engine/templates/git.rb.erb"
+			],
+			[
+				"challengeenginetest",
+				"lib/challenge_engine/challenge_engine_test.rb"
+			],
+			[
+				"gitru",
+				"lib/challenge_engine/runners/git_runner.rb"
+			],
+			[
+				"test.py",
+				"test.py"
+			],
+			[
+				"pythoner",
+				"lib/challenge_engine/templates/python.py.erb"
+			],
+			[
+				"pythonrunn",
+				"lib/challenge_engine/runners/python_runner.rb"
+			],
+			[
+				"javarunn",
+				"lib/challenge_engine/runners/java_runner.rb"
+			],
+			[
+				"runn",
+				"lib/challenge_engine/runner.rb"
+			],
+			[
+				"swiftrunn",
+				"lib/challenge_engine/runners/swift_runner.rb"
+			],
+			[
+				"bootst",
+				"script/bootstrap"
+			],
+			[
+				"pybasicstage5",
+				"challenges/python/python_basics/stage_5/test_2.py"
+			],
+			[
+				"pythoncollchoicetest",
+				"challenges/python/python_collections/choices/test_1.py"
+			],
+			[
+				"pymaster",
+				"python_master.txt"
+			],
+			[
+				"pyth",
+				"lib/challenge_engine/templates/python.py.erb"
+			],
+			[
+				"exception",
+				"lib/challenge_engine/exception_handler.rb"
+			],
+			[
+				"py",
+				"spec/python_runner_spec.rb"
+			],
+			[
+				"giterb",
+				"lib/challenge_engine/templates/git.rb.erb"
+			],
+			[
+				"gitspe",
+				"spec/git_runner_spec.rb"
+			],
+			[
+				"gitrun",
+				"lib/challenge_engine/runners/git_runner.rb"
+			],
+			[
+				"giturnn",
+				"lib/challenge_engine/runners/git_runner.rb"
+			],
+			[
+				"gitrunn",
+				"lib/challenge_engine/runners/git_runner.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"autho",
+				"AUTHORING.markdown"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"assertioncon",
+				"app/controllers/assertions_controller.rb"
+			],
+			[
+				"precom",
+				"lib/challenge_engine/precompile_test_context.rb"
+			],
+			[
+				"pha",
+				"lib/challenge_engine/templates/phantomjs.js.erb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"sassru",
+				"spec/sass_runner_spec.rb"
+			],
+			[
+				"challen",
+				"challenge"
+			],
+			[
+				"test_ch",
+				"script/test_challenges.sh"
+			],
+			[
+				"phant",
+				"spec/phantomjs_runner_spec.rb"
+			],
+			[
+				"logger",
+				"lib/challenge_engine/logger.rb"
+			],
+			[
+				"phantom",
+				"lib/challenge_engine/templates/phantomjs.js.erb"
+			],
+			[
+				"phrunn",
+				"lib/challenge_engine/runners/phantomjs_runner.rb"
+			],
+			[
+				"testchallmaster",
+				"test_challenges_master.txt"
+			],
+			[
+				"javasp",
+				"spec/java_runner_spec.rb"
+			],
+			[
+				"noderun",
+				"spec/nodejs_runner_spec.rb"
+			],
+			[
+				"javat",
+				"lib/challenge_engine/templates/JavaTester.java.erb"
+			],
+			[
+				"javarun",
+				"lib/challenge_engine/runners/java_runner.rb"
+			],
+			[
+				"noderunnspec",
+				"spec/nodejs_runner_spec.rb"
+			],
+			[
+				"node",
+				"lib/challenge_engine/templates/nodejs.js.erb"
+			],
+			[
+				"nodejsbasic",
+				"challenges/javascript/nodejs_basics/stage_1/cc1/challenge.yml"
+			],
+			[
+				"javaerb",
+				"lib/challenge_engine/templates/JavaTester.java.erb"
+			],
+			[
+				"ajaxbasic111",
+				"challenges/javascript/ajax_basics/stage_1/cc1/task_1.coffee"
+			],
+			[
+				"phrunnsp",
+				"spec/phantomjs_runner_spec.rb"
+			],
+			[
+				"test",
+				"lib/challenge_engine/test.rb"
+			],
+			[
+				"noderunn",
+				"lib/challenge_engine/runners/nodejs_runner.rb"
+			],
+			[
+				"no",
+				"lib/challenge_engine/templates/nodejs.js.erb"
+			],
+			[
+				"bloc",
+				"ch05/blocks.md"
+			],
+			[
+				"tell",
+				"bin/osx/tell"
+			],
+			[
+				"block",
+				"ch05/blocks.md"
+			],
+			[
+				"authorim",
+				"AUTHORING.markdown"
+			],
+			[
+				"ajaxbasicsstage1cc1",
+				"challenges/javascript/ajax_basics/stage_1/cc1/task_1.coffee"
+			],
+			[
+				"provi",
+				"osx/provision_osx_computer.rb"
+			],
+			[
+				"blocks",
+				"ch05/blocks.md"
+			],
+			[
+				"precompi",
+				"challenges/swift/build_a_simple_iphone_app/cc1_getting_started/precompile_task_1.rb"
+			],
+			[
+				"ajax_b",
+				"challenges/javascript/ajax_basics/stage_1/cc1/app.js"
+			],
+			[
+				"sassbasicsstage4cc2",
+				"challenges/css/sass_basics/stage_4/cc1/test_2.coffee"
+			],
+			[
+				"player",
+				"src/object/player.cpp"
+			],
+			[
+				"usage",
+				"USAGE.md"
+			],
+			[
+				"cask",
+				"lib/cask.rb"
+			],
+			[
+				"loca",
+				"lib/cask/locations.rb"
+			],
+			[
+				"compass",
+				"lib/challenge_engine/runners/compass_runner.rb"
+			],
+			[
+				"authorin",
+				"AUTHORING.markdown"
+			],
+			[
+				"obj",
+				"lib/challenge_engine/runners/objective_c_runner.rb"
+			],
+			[
+				"test_",
+				"script/test_challenges.sh"
+			],
+			[
+				"swiftlin",
+				"lib/challenge_engine/templates/swift_lint.swift.erb"
+			],
+			[
+				"swiftrun",
+				"lib/challenge_engine/runners/swift_runner.rb"
+			],
+			[
+				"testch",
+				"script/test_challenges.sh"
+			],
+			[
+				"swifterb",
+				"lib/challenge_engine/templates/swift.swift.erb"
+			],
+			[
+				"swift",
+				"challenges/swift/build_a_simple_iphone_app/cc1_getting_started/preamble.swift"
+			],
+			[
+				"challenges/swift/functions_and_optionals/stage1/cc3_returns/precompile_task_1.rb",
+				"challenges/swift/functions_and_optionals/stage1/cc3_returns/precompile_task_1.rb"
+			],
+			[
+				"objcrun",
+				"spec/objective_c_runner_spec.rb"
+			],
+			[
+				"objcrunn",
+				"lib/challenge_engine/runners/objective_c_runner.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 194.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
