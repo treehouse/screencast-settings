@@ -1,7 +1,5 @@
 {
-    // Because window.zoomLevel is increased, a 14-point font here is equivalent to an 18-point font normally.
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 14,
-    // Increases Explorer (sidebar) font size.
     "window.zoomLevel": 1
 }
