@@ -7,7 +7,7 @@
 Or, if you're in a hurry:
 
 ```
-mkdir .vscode; curl https://raw.githubusercontent.com/treehouse/screencast-settings/master/.vscode/settings.json > .vscode/settings.json; code .
+mkdir .vscode; curl https://raw.githubusercontent.com/treehouse/screencast-settings/master/visual_studio_code/.vscode/settings.json > .vscode/settings.json; code .
 ```
 
 The project should then open with a zoomed-in interface and enlarged editor and terminal fonts.
