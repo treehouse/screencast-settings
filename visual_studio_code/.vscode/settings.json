@@ -1,5 +1,15 @@
 {
     "editor.fontSize": 14,
     "terminal.integrated.fontSize": 14,
-    "window.zoomLevel": 1
+    "window.zoomLevel": 1,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/.vscode": true,
+        "node_modules": true,
+        "package-lock.json": true,
+    }
 }
